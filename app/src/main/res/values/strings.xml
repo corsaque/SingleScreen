@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SingleScreen</string>
+    <string name="main_descirption">Inquiry Market Research offers project management and
+        fieldwork services, according to specified procedures
+        and research designs, however complicated or demanding they may be</string>
+    <string name="_contact_person_description">Agnieszka Górnicka założyła Inquiry w 2004 roku
+        z potrzeby oferowania najwyższych standardow jakości w branży badawczej.
+        Jest członkiem stowarzyszeń ESOMAR i PTBRiO.</string>
+<string name="_address_details">Inquiry sp. z o.o.
+ul. Hajoty 61
+01-821 Warszawa</string>
+    <string name="_contact_details">info@inquiry.com.pl
++48 22 832 51 50</string>
+
+</resources>
